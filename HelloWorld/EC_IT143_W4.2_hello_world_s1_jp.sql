@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_hello_world_s1_jp.sql
+-- Step 1: Question
+-- Question: What is the number 1 plus 1?

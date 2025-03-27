@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_unesco_s1_jp.sql
+-- Step 1: Question
+-- Question: What are the countries with the most UNESCO world heritage sites?

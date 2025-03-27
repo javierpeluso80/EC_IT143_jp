@@ -1,0 +1,4 @@
+-- EC_IT143_W4.2_hello_world_s2_jp.sql
+-- Step 2: Begin creating an answer
+-- To answer this question, I can write a simple SQL query that returns the result of 1 + 1.
+-- I expect the result to be 2.

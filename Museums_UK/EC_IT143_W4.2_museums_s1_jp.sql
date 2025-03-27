@@ -1,0 +1,3 @@
+-- EC_IT143_W4.2_museums_s1_jp.sql
+-- Step 1: Start with a question
+-- Question: Which is the oldest museum in each city?
